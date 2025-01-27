@@ -12,18 +12,18 @@ This repository contains tools for working with Liquid Bitcoin (LBTC) transactio
 
 1. Clone the repository:
    ```bash
-        git clone https://github.com/your-username/liquid-bitcoin-tool.git
-        cd liquid-bitcoin-tool
+        git clone git@github.com:Faisal-3389/liquid-poc.git
+        cd liquid-poc
    ```
 
-2.	Run Example 1:
+2.	Install Dependencies:
     ```bash
-        node example-1.js
+        npm install
     ```
 
-3.	Run Example 2:
+3.	Run Example 1:
     ```bash
-        node example-2.js
+        node example-1.js
     ```
 ---
 
