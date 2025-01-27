@@ -1,0 +1,21 @@
+{
+  "name": "liquid-poc",
+  "version": "1.0.0",
+  "description": "liquid-poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vulpemventures/secp256k1-zkp": "^3.2.1",
+    "axios": "^1.7.9",
+    "bip32": "^5.0.0-rc.0",
+    "bip39": "^3.1.0",
+    "ecpair": "^3.0.0-rc.0",
+    "liquidjs-lib": "^6.0.2-liquid.36",
+    "tiny-secp256k1": "^2.2.3"
+  }
+}
