@@ -38,3 +38,13 @@ The script to:
 4. Create and sign a transaction to send LBTC to a specified recipient.
 
 ---
+
+Running the following commands results in errors:
+
+1. **Command:** node example-1.js
+   - **Description:** This runs with the first amount I was trying.
+   - **Error Returned:** sendrawtransaction RPC error -26: dust
+
+2. **Command:** node example-2.js
+   - **Description:** This runs with the second address with higher sats transaction amounts.
+   - **Error Returned:** sendrawtransaction RPC error -26: bad-txns-in-ne-out, value in != value out
