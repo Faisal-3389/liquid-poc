@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lwk_wasm": "/Users/faisalali/workspace/paywithmoon/examples-poc/lwk/lwk_wasm/pkg",
     "@vulpemventures/secp256k1-zkp": "^3.2.1",
     "axios": "^1.7.9",
     "bip32": "^5.0.0-rc.0",
