@@ -48,3 +48,8 @@ Running the following commands results in errors:
 2. **Command:** node example-2.js
    - **Description:** This runs with the second address with higher sats transaction amounts.
    - **Error Returned:** sendrawtransaction RPC error -26: bad-txns-in-ne-out, value in != value out
+
+Example 3: node example-2.js
+
+3. **Command:** node example-2.js
+   - **Description:** This runs with using the lwk_wasm library, locally built using wasm extract of lwk rust package
